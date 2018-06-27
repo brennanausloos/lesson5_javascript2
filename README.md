@@ -4,7 +4,7 @@
 Web Application Development
 
 ### Assignment Date:  
-(june, 27, 2018)
+(June, 27, 2018)
 
 ### Student Name:  
 (Brennan Ausloos)
