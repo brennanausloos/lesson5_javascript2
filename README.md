@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(june, 27, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Brennan Ausloos)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I created a replica of the Tax Bracket Calculator Application using Cloud9 and javascript.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brennanausloos.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to make a Tax Bracket Calculator Application using javascript in cloud9.)
+2. (I learned how to clear information inputted by the user by using the "document.getElementById" method and then setting the default option to "".)
+3. (I learned how to use basic mathmatecial functions in javascript by using cloud9.)
 
